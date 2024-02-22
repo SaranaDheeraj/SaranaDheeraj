@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dheeraj and I'm a Undergraduate Student specialized in computer science along with networking and security, from VITAP.</h2>
+<h2 align="left">Hi 👋! My name is Dheeraj and I'm a Undergraduate Student specialized in Computer Science along with Networking and Security, from VITAP.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/akBy6qWGjs4AAAAj/peach-cat-mochi-peach-cat.gif"  />
 
 ###
 
